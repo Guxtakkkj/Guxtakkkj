@@ -1,7 +1,5 @@
 # Olá, eu sou o Gustavo 
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 ## 👦 **Sobre mim**
 
 Um desenvolvedor web apaixonado por construir soluções digitais inovadoras e experiências de usuário envolventes. Com experiência em [**front-end**, **back-end**, **desenvolvimento** **mobile**, **etc**.], busco constantemente aprimorar minhas habilidades e explorar novas tecnologias.
