@@ -15,3 +15,5 @@ Eu tenho um **objetivo**:
 Aqui estão algumas das habilidades tecnológicas que eu domino 😎:
 
 [![My Skills](https://skillicons.dev/icons?i=js,dotnet,php,nodejs,astro,html,css,java,azure,mysql)](https://skillicons.dev)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
